@@ -1,5 +1,3 @@
-# Tareas_BioinfRepro2019_DOG
-
 # README of "Identification of deleterious alleles in landraces of maize"
 
 Contains data, scripts and figures  for la identification of deleterious alleles in landraces of maize
@@ -30,10 +28,7 @@ Scripts content:
 Figures content:
 
 * `SIFT_Prediction.png`.- in this graph we can see the prediction made by SIFT 4. Which includes: tolerated, deleterious, and deleterious with low confidence.
-* `Variant_type.png`.- in this graph we can see the type of variant identified by SIFT 4. Which includes:stop-gain, synonymous, nonsynonymous and nonconding. 
-
-
-## Summary and discussion
+* `Variant_type.png`.- in this graph we can see the type of variant identified by SIFT 4. Which includes:stop-gain, synonymous, nonsynonymous and nonconding.
 
 
 #### Notes
