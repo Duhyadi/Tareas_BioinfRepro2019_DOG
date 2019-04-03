@@ -38,7 +38,7 @@ while a small minority are beneficial (Mezmouk & Ross-Ibarra 2013).
 This was recently documented in rice,
 both in the domesticated species and in the wild (Lui et al., 2017).
 
-![CHROM and SIFT PREDICTION](/home/duhyadi/Desktop/Proyecto_alelos_deletereos/Prediction of deleterious alleles/Figures)
+!["CHROM and SIFT PREDICTION"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/SIFT_Prediction.png)
 
 It is important to note that in spite
 of having found deleterious alleles,
@@ -57,7 +57,7 @@ in this class the variants are included: tolerated,
 deleterious with low level of confidence and deleterious.
 Not necessarily the non-synonymous is deleterious.
 
-![CHROM and VARIANT TYPE](/home/duhyadi/Desktop/Proyecto_alelos_deletereos/Prediction of deleterious alleles/Figures)
+!["CHROM and VARIANT TYPE"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/ProyectoUnidad5_DOG/Figures/Variant_type.png)
 
 # References:
 
