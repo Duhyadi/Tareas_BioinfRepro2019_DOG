@@ -1,26 +1,26 @@
 - - -
-#Introducción a la Bioinformática para Biólogos y Genetistas, 2019
+# Introducción a la Bioinformática para Biólogos y Genetistas, 2019
 -------------------
 
-##Unidad 7 
+## Unidad 7 
 
-##Tarea 7.1 “ Expresión diferencial”
+## Tarea 7.1 “ Expresión diferencial”
 
-###10/05/2019
+### 10/05/2019
 
-###Duhyadi Oliva García 
-###Doctorado en Ciencias Biológicas 
-###Universidad Nacional Autónoma de México 
+### Duhyadi Oliva García 
+### Doctorado en Ciencias Biológicas 
+### Universidad Nacional Autónoma de México 
 
-####Introducción y hipótesis 
+#### Introducción y hipótesis 
 
 Se reconoce que el  ChrY también podría estar vinculado a las diferencias en el perfil de la expresión génica en los corazones de ratones machos adultos . 
 
-####Metodología  
+#### Metodología  
 
 Importar la matriz en R, seleccionar aleatoriamente 5000 filas y exportar el subset de datos en un archivo plano separado por tabulaciones.
 
-#####Muestreo aleatorio
+##### Muestreo aleatorio
 Data.Raw = sample_n(Data.Raw, size=5000, replace=FALSE)
 
 i) En vez de considerar un transcrito presente si la sonda lo detectó en el 50% de las muestras 	de cualquier grupo experimental, hágalo cuando se detectó en al menos el 25% de las muestras 	de todos grupos experimentales.
@@ -49,16 +49,9 @@ iv) En vez de seleccionar un gen si cualquier sonda asociada al gen está selecc
  
 	genes.int <- tapply(probes.int, results$EntrezID, all)
 
-#####Resultados 
+##### Resultados 
 
 Es comun obtener en los análisis de microarreglos sondas con diferente calidad posterior al alineamiento contra el genoma de referencia. Resulta necesario visualizar graficamente la calidad de los datos crudos. En la figura 1 se observa una menor intensidad en cada uno de los microarreglos con sondas de calidad menor, las cuales deberán ser eliminadas. Mientras que, para aquellas que poseen una mejor calidad se observar una mayor intensidad. 
-
-
-
-
-
-
-
 
 
 !["Figura 1"](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/boxplot_raw_probe_qc.png)
