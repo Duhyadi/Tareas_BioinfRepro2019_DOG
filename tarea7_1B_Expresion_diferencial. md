@@ -1,8 +1,8 @@
-# Introducción a la Bioinformática para Biólogos y Genetistas, 2019
+#Introducción a la Bioinformática para Biólogos y Genetistas, 2019
 
-## Unidad 7 
+##Unidad 7 
 
-## Tarea 7.1 “ Expresión diferencial”
+##Tarea 7.1 “ Expresión diferencial”
 
 ###10/05/2019
 
@@ -59,7 +59,7 @@ Es comun obtener en los análisis de microarreglos sondas con diferente calidad 
 
 
 
-![Figura 1](boxplot_raw_probe_qc.png)
+![Figura 1](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/boxplot_raw_probe_qc.png)
 
 
 
@@ -73,7 +73,7 @@ Además de visualizar la intensidad de la señal para cada uno de los mircroarre
 
 
 
-![Figura 2](boxplot_raw_treatment.png )
+![Figura 2](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/boxplot_raw_treatment.png )
 
 
 
@@ -86,7 +86,7 @@ Con la finalidad de comparar la significancia de los valores de p asociados al a
 
 
 
-![Figura 3](P-values Hist.png )
+![Figura 3](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/P-values%20Hist.png )
 
 
 
@@ -104,7 +104,7 @@ En relación al número de genes expresados por genotipo,  tratamiento e interac
 
 
 
-![Figura 4](vennDiagram_DiffExprs.png)
+![Figura 4](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/vennDiagram_DiffExprs.png)
 
 
 
@@ -118,7 +118,7 @@ Figura 4. Genes expresados diferencialmente.
 
 
 
-![Figura 5 ](vennDiagram_Int.png)
+![Figura 5 ](https://github.com/Duhyadi/Tareas_BioinfRepro2019_DOG/blob/master/vennDiagram_Int.png)
 
 
 
